@@ -1,4 +1,4 @@
-import './style.css';
+import './style.scss';
 
 const headline = 'Welcome To The Webpackpage';
-document.querySelector('h1').innerText = headline;
+document.querySelector('h2').innerText = headline;
