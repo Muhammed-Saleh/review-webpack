@@ -1,7 +1,11 @@
+:root {
+    --mainBg: mediumpurple;
+}
+
 $ligth-text: moccasin;
 
 body{
-    background-color: salmon;
+    background-color: var(--mainBg);
     color: $ligth-text;
 }
 
